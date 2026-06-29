@@ -1,4 +1,4 @@
-                 💡 Random code, creative experiments, and small projects made out of curiosity and a love for programming.🎮
+<p align = "center" > 💡 Random code, creative experiments, and small projects made out of curiosity and a love for programming.🎮 </p>
 
 <p align = "center">
 
