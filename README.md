@@ -1,1 +1,7 @@
-💡 Random code, creative experiments, and small projects made out of curiosity and a love for programming.🎮
+                 💡 Random code, creative experiments, and small projects made out of curiosity and a love for programming.🎮
+
+<p align = "center">
+
+<img src = "https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODI3MzIzMTAsIm5iZiI6MTc4MjczMjAxMCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjI5VDExMjAxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhZTE4ZWQwMTJhNjEyYjMzNjE4YWIwMzFjZjEwMWQ3ZjQ1Y2JmMGRjNDAwNzE1NmJjYTU4ODY3NzlhZTRmMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.1jM_YTwjCyraYP-qMR2GbgQyRbRXBQzhNsvzq0PRIgg"  />
+  
+</p>
